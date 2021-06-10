@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm sampath</h1>
 <h3 align="center">A passionate CSE student in INDIA</h3>
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/78590504?s=400&u=497086a85231a401b8492f8d3780d1bf58217376&v=4" alt="sampath006" /> </p>
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/78590504?s=400&u=0e6101807865062ec2622224116b1f0ff8e00c19&v=4" alt="sampath006" /> </p>
 
 
 - 🔭 I’m currently working on **hand gesture detection**
