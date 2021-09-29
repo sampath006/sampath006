@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm sampath</h1>
 <h3 align="center">A passionate CSE student in INDIA</h3>
+<h3 allign="center"> Studying at IIIT Sricity  </h3>
 <p align="left"> <img src="https://avatars.githubusercontent.com/u/78590504?s=400&u=0e6101807865062ec2622224116b1f0ff8e00c19&v=4" alt="sampath006" /> </p>
 
 
